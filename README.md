@@ -1,1 +1,1 @@
-# RaschetNaryada
+# schedule calculation
